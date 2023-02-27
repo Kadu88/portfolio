@@ -1,7 +1,3 @@
----
-title: Project's Portfolio
-output: pdf_document
----
 # Project's Portfolio
 
 ##### First, I will create simple applications using some patterns and techs that I use in my work.
